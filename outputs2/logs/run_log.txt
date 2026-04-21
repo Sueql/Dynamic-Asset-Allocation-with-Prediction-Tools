@@ -1,0 +1,21 @@
+2026-04-20 20:10:37,492 | INFO | Starting MSDM5058 Project II workflow...
+2026-04-20 20:10:38,451 | INFO | Final label from training-set volatility: risky=AAPL, safe=KO
+2026-04-20 20:11:15,707 | INFO | Section 4 parameters: mu=0.00083835, sigma=0.02656797, x0=0.00100701, b=90.55152862
+2026-04-20 20:11:16,329 | INFO | Digitization threshold epsilon = 0.00664199
+2026-04-20 20:11:16,651 | INFO | Section 5 priors: {'D': 0.3143030058503127, 'U': 0.36271938672584225, 'H': 0.32297760742384507}
+2026-04-20 20:11:32,023 | INFO | Top 10 by support saved.
+2026-04-20 20:11:32,023 | INFO | Top 10 by confidence saved.
+2026-04-20 20:11:32,023 | INFO | Top 10 by geometric mean saved.
+2026-04-20 20:11:32,023 | INFO | Top 10 by RPF saved.
+2026-04-20 20:13:37,083 | INFO | Final wealth summary:
+2026-04-20 20:13:37,083 | INFO |   Section 7 aggressive: 424026.99
+2026-04-20 20:13:37,083 | INFO |   Section 7 conservative: 401531.50
+2026-04-20 20:13:37,083 | INFO |   Section 7 Bob: 408258.39
+2026-04-20 20:13:37,083 | INFO |   Section 8 aggressive: 428129.05
+2026-04-20 20:13:37,083 | INFO |   Section 8 conservative: 431044.56
+2026-04-20 20:13:37,084 | INFO |   Section 8.1 aggressive: 430913.42
+2026-04-20 20:13:37,084 | INFO |   Section 8.1 conservative: 456193.92
+2026-04-20 20:13:37,084 | INFO |   Section 9 aggressive: 371303.05
+2026-04-20 20:13:37,084 | INFO |   Section 9 conservative: 350348.78
+2026-04-20 20:13:37,084 | INFO | All outputs saved under: D:\HKUST\Spring Term\MSDM5058 信息科学\assignments\Project2\outputs
+2026-04-20 20:13:37,085 | INFO | Workflow finished successfully.

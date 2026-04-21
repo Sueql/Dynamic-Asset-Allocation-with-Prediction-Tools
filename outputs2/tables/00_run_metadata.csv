@@ -1,0 +1,16 @@
+﻿item,value
+candidate_ticker_1,AAPL
+candidate_ticker_2,KO
+final_risky,AAPL
+final_safe,KO
+start_date,2000-01-04
+end_date,2026-04-17
+n_aligned_price_rows,6611
+n_return_rows,6611
+train_rows,4958
+test_rows,1653
+split_date_first_test_day,2019-09-19
+daily_rf,1e-05
+aggressive_g,0.5
+conservative_g,0.2
+eps_scale,0.25
