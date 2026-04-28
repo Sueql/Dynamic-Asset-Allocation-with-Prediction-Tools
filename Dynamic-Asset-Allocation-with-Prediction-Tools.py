@@ -1,5 +1,3 @@
-# MSDM5058 Project II full workflow (output-folder version)
-# ---------------------------------------------------------
 # What this version changes:
 # 1. It does NOT call plt.show(). All figures are saved into outputs/figures.
 # 2. All important intermediate tables are saved into outputs/tables.
