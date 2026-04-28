@@ -1,0 +1,9 @@
+﻿item,value
+final_minrisk_benchmark,209127.18171990712
+final_aggressive,351268.15286089724
+final_conservative,312847.40344669594
+aggressive_minus_benchmark,142140.97114099012
+conservative_minus_benchmark,103720.22172678882
+n_days_aggressive_p_below_pJ,0
+n_days_conservative_p_below_pJ,0
+comment,Efficient-frontier control is considered clean only when p(t) stays at or above p_J(t).

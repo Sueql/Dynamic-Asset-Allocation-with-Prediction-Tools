@@ -1,0 +1,22 @@
+﻿item,value
+candidate_ticker_1,AMZN
+candidate_ticker_2,KO
+final_risky,AMZN
+final_safe,KO
+start_date,2000-01-03
+end_date,2026-04-20
+n_aligned_price_rows,6613
+n_return_rows,6612
+train_rows,4960
+test_rows,1653
+split_date_first_test_day,2019-09-20
+daily_rf,1e-05
+aggressive_g,0.5
+conservative_g,0.2
+eps_scale,0.25
+price_field,Adj Close
+download_timestamp_utc,2026-04-21 10:19:20.786673+00:00
+conditional_density_kind,auto_parametric
+extreme_return_abs_log_threshold,0.4
+source_1,https://finance.yahoo.com/quote/AMZN/history
+source_2,https://finance.yahoo.com/quote/KO/history

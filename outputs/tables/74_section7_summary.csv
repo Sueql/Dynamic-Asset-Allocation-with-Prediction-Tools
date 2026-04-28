@@ -1,0 +1,11 @@
+﻿item,value
+final_cash_benchmark,101665.7125751708
+final_aggressive,264208.59995780844
+final_conservative,219388.67201391558
+final_bob,310437.37404205
+best_strategy,bob
+bob_minus_aggressive,46228.77408424154
+bob_minus_conservative,91048.7020281344
+aggressive_minus_benchmark,162542.88738263765
+conservative_minus_benchmark,117722.95943874479
+bob_minus_benchmark,208771.6614668792

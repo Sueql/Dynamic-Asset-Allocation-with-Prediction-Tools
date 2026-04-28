@@ -1,0 +1,7 @@
+﻿metric,value
+aggressive_g_value,0.5
+conservative_g_value,0.2
+n_buy_days_using_aggressive_g,749.0
+n_sell_days_using_conservative_g,385.0
+n_hold_days,519.0
+final_wealth,310437.37404205

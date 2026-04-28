@@ -1,0 +1,5 @@
+﻿rule,n_lambda,lambda_min,lambda_max
+HHHHH->H,15,0.0,0.7
+HHHDH->H,4,0.75,0.9
+UHUDD->U,1,0.95,0.95
+DHHUD->H,1,1.0,1.0

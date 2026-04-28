@@ -1,0 +1,3 @@
+﻿ticker,source,access_via,url
+AMZN,Yahoo Finance,yfinance,https://finance.yahoo.com/quote/AMZN/history
+KO,Yahoo Finance,yfinance,https://finance.yahoo.com/quote/KO/history

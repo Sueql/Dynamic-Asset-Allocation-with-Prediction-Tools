@@ -1,0 +1,3 @@
+Data source: Yahoo Finance historical adjusted close prices downloaded via yfinance.
+AMZN: https://finance.yahoo.com/quote/AMZN/history
+KO: https://finance.yahoo.com/quote/KO/history

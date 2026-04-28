@@ -1,0 +1,7 @@
+﻿item,value
+lambda_with_highest_top_utility,1.0
+highest_top_utility,0.7777777777777778
+best_rule_at_that_lambda,DHHUD->H
+n_distinct_top_rules_across_lambda_grid,4
+most_stable_top_rule,HHHHH->H
+comment,No single universal lambda is guaranteed; usefulness depends on the trade-off between frequency and accuracy.
